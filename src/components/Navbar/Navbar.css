@@ -110,6 +110,11 @@
 .app__navbar-smallscreen_links li:hover {
     color: var(--color-white);
 }
+.overlay__close img {
+    background-color: var(--color-golden);
+    height: 40px;
+    border-radius: 50%;
+}
 
 @media screen and (min-width: 2000px) {
     .app__navbar-logo img {

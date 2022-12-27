@@ -16,6 +16,7 @@ import freedauslong from '../assets/freedauslong.jpg';
 import freedausshort from '../assets/freedausshort.jpg';
 import gbemi from '../assets/gbemi.jpg';
 import jojo from '../assets/jojo.jpg';
+import jojokimono from '../assets/jojokimono.jpg';
 import joyce from '../assets/joyce.jpg';
 import yettyblack from '../assets/yettyblack.jpg';
 import yettygreen from '../assets/yettygreen.jpg';
@@ -25,9 +26,30 @@ import zakiyahfyb from '../assets/zakiyahfyb.jpg';
 import rhoda from '../assets/rhoda.jpg';
 import zakijumpsuit from '../assets/zakijumpsuit.jpg';
 import ctaloskirt from '../assets/ctaloskirt.jpg';
-import jojokimono from '../assets/jojokimono.jpg';
+import yemisifyb from '../assets/yemisifyb.jpeg';
+import zakiyahcrop from '../assets/zakiyahcrop.jpg';
+import ctalokente from '../assets/ctalokente.jpg';
+import yemisigown from '../assets/yemisigown.jpeg';
+import ctalofyb from '../assets/ctalofyb.jpg';
+import sussie from '../assets/sussie.jpeg';
+import zakidinner from '../assets/zakidinner.jpg';
+import ctaloadire from '../assets/ctaloadire.jpg';
+import ctalored from '../assets/ctalored.jpg';
+import ctalowhitegown from '../assets/ctalowhitegown.jpg';
+import scissors from '../assets/scissors.svg';
 
 export default {
+  scissors,
+  zakidinner,
+  ctaloadire,
+  ctalored,
+  ctalowhitegown,
+  yemisifyb,
+  zakiyahcrop,
+  ctalokente,
+  yemisigown,
+  ctalofyb,
+  sussie,
   ctaloskirt,
   zakiyahfyb,
   jojokimono,

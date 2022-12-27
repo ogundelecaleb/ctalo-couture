@@ -2,7 +2,7 @@ import images from './images';
 
 const wines = [
   {
-    title: 'Jump Suite',
+    title: 'Jump Suit',
     price: '#8,000',
     tags: 'Size 7 - 9 ',
   },
@@ -30,7 +30,7 @@ const wines = [
 
 const cocktails = [
   {
-    title: 'Jump Suite',
+    title: 'Jump Suit',
     price: '#8,000',
     tags: 'Size 7 - 9 ',
   },
@@ -60,42 +60,62 @@ const gallery2 = [
   {
     imgUrl: images.ctalolylac,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/tv/CY_HBGxhk8j/?igshid=YmMyMTA2M2Y=',
   },
   {
     imgUrl: images.rhoda,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/ClbWvFWo0tL/?igshid=YmMyMTA2M2Y=',
   },
   {
     imgUrl: images.zakijumpsuit,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/CVnG15tgUkt/?igshid=YmMyMTA2M2Y=',
   },
   {
     imgUrl: images.jojokimono,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/CelCD_uD7jV/?igshid=YmMyMTA2M2Y=',
   },
   {
     imgUrl: images.zakiyahfyb,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/ClZRhFmKAfU/?igshid=YmMyMTA2M2Y=',
   },
   {
     imgUrl: images.ctaloskirt,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/Cag-6HQrgGm/?igshid=YmMyMTA2M2Y=',
   },
   {
-    imgUrl: images.beauty,
+    imgUrl: images.yemisifyb,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/ClZkzBXrheaUVKngXaAWF7EF_SDWyID9P0ZBac0/?igshid=YmMyMTA2M2Y=',
   },
   {
-    imgUrl: images.beauty,
+    imgUrl: images.zakiyahcrop,
     // eslint-disable-next-line no-useless-escape
-    link: '\https://www.instagram.com/p/CbHa2unAijR/?igshid=YmMyMTA2M2Y=',
+    link: 'https://www.instagram.com/p/Cje0gRPKF3s/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.ctalokente,
+    // eslint-disable-next-line no-useless-escape
+    link: 'https://www.instagram.com/p/CMH3hXNjvOE/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.yemisigown,
+    // eslint-disable-next-line no-useless-escape
+    link: 'https://www.instagram.com/p/Cje0gRPKF3s/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.ctalofyb,
+    // eslint-disable-next-line no-useless-escape
+    link: 'https://www.instagram.com/p/Cldm1V4oOMW/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.sussie,
+    // eslint-disable-next-line no-useless-escape
+    link: '',
   },
 ];
 
@@ -147,6 +167,26 @@ const gallery = [
   },
   {
     imgUrl: images.yettygreen,
+    // eslint-disable-next-line no-useless-escape
+    link: '\https://www.instagram.com/p/CH3A97YFRxV/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.ctalored,
+    // eslint-disable-next-line no-useless-escape
+    link: '\https://www.instagram.com/p/CH3A97YFRxV/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.ctalowhitegown,
+    // eslint-disable-next-line no-useless-escape
+    link: '\https://www.instagram.com/p/CH3A97YFRxV/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.ctaloadire,
+    // eslint-disable-next-line no-useless-escape
+    link: '\https://www.instagram.com/p/CH3A97YFRxV/?igshid=YmMyMTA2M2Y=',
+  },
+  {
+    imgUrl: images.zakidinner,
     // eslint-disable-next-line no-useless-escape
     link: '\https://www.instagram.com/p/CH3A97YFRxV/?igshid=YmMyMTA2M2Y=',
   },

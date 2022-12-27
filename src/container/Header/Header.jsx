@@ -1,3 +1,5 @@
+/* eslint-disable jsx-a11y/anchor-is-valid */
+/* eslint-disable react/jsx-indent */
 /* eslint-disable quotes */
 import React from "react";
 
@@ -17,7 +19,7 @@ const Header = () => (
         demand and compete favorably with global fashion brands.{" "}
       </p>
       <button type="button" className="custom__button">
-        Explore Menu
+       <a href="#gallery">Explore</a>
       </button>
     </div>
 
