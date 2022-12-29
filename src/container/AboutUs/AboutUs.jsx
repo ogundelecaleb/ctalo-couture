@@ -10,7 +10,7 @@ const AboutUs = () => (
   >
     <div className="app__aboutus-content flex__center">
       <div className="app__aboutus-content_about">
-        <h1 className="headtext__cormorant">About Us</h1>
+        <h1 className="headtext__cormorant">Who We Are</h1>
         <img src={images.needle} alt="about_spoon" className="spoon__img" />
         <p className="p__opensans">
           Ctalo couture is a Nigerian-based custom tailor with strong commitment

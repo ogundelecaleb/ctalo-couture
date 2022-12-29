@@ -46,7 +46,7 @@ const Gallery = () => {
         <h1 className="headtext__cormorant">Photo Gallery</h1>
         <p
           className="p__opensans"
-          style={{ color: "#AAAAAA", marginTop: "2rem" }}
+          style={{ color: "#AAAAAA" }}
         >
           Here is collection of dress styles proudly worn by our beautiful customers, we put in so much effort to please
            our customer demands to put a beautiful smile in their faces.

@@ -4,14 +4,11 @@
 }
 
 .app__specialMenu-title {
-  margin-bottom: 2rem;
   text-align: center;
 }
 
 .app__specialMenu-menu {
   width: 100%;
-  margin: 2rem 0;
-
   display: flex;
   justify-content: center;
   align-items: flex-start;
@@ -20,6 +17,7 @@
 
 .app__specialMenu-menu_heading {
   font-family: var(--font-base);
+  color: var(--color-golden);
   font-weight: 600;
   font-size: 45px;
   line-height: 58.5px;
@@ -47,8 +45,7 @@
 .app__specialMenu_menu_items {
   display: flex;
   flex-direction: column;
-
-  margin: 2rem 0;
+  margin: 1rem 0;
   width: 100%;
 }
 

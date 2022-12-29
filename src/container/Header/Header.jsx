@@ -11,7 +11,7 @@ import "animate.css";
 const Header = () => (
   <div className="app__header app__wrapper section__padding" id="home">
     <div className="app__wrapper_info animate__animated animate__slideInUp">
-      <SubHeading title="Chase the new Styles" style={{ margin: "1rem 0" }} />
+      <SubHeading title="Chase the new Styles" />
       <div className="app__header-h1 ">CTALO&apos;s COUTURE</div>
       <p className="p__opensans" style={{ margin: "1rem 0" }}>
         A Nigerian based custom tailor that understand the art and science of
