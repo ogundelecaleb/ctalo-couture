@@ -12,7 +12,7 @@ import 'animate.css';
 const SpecialMenu = () => (
   <div className="app__specialMenu flex__center section__padding animate__animated animate__slideInUp" id="menu">
     <div className="app__specialMenu-title">
-      <SubHeading title="Styles that fits your palatte" />
+      <SubHeading title="Styles that suits you" />
       <h1 className="headtext__cormorant">Ctalo&apos;s Special</h1>
     </div>
 
